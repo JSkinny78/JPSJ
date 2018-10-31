@@ -14,16 +14,16 @@ ul.main-menu {
     background-color: #555555;
 
 }
-li.menu-item-style {
+li.main-menu-item {
     float: left;
 }
-li.menu-item-style a {
+li.main-menu-item a {
     display: inline-block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
-li.menu-item-style a:hover {
+li.main-menu-item a:hover {
     background-color: #111;
 }
